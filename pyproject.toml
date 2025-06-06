@@ -1,0 +1,9 @@
+[project]
+name = "gpxsplit-py"
+version = "0.1.0"
+description = "Split and convert tracks from .gpx-files into several routes with a limited number of points"
+readme = "readme.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gpxpy>=1.6.2",
+]
